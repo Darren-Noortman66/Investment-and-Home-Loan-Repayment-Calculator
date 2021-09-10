@@ -1,5 +1,4 @@
-# SE-L1T12---Capstone-Project-I---Variables-and-Control-Structures
-My first Capstone Project in the first level of my course with Hyperion Development.
+# Investment and Home-Loan-Repayment Calculators
 
 ## This project is used to work with two different calculators (investment and home-loan-repayment).
 
