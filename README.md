@@ -1,4 +1,4 @@
-# Investment and Home-Loan-Repayment Calculators
+# Investment and Home-Loan-Repayment Calculator
 
 ## This project is used to work with two different calculators (investment and home-loan-repayment).
 
@@ -29,4 +29,4 @@ To test your input/ code, you can look at the output printed to see if the infor
 
 ## How you can help
 
-No help is needed right now, as these are currently being marked to Hyperion-Development's standards. However, if you do see improvements that can be made, then please feel free to point them out :D
+No help is needed right now, as the task is complete. However, if you do see improvements that can be made, then please feel free to point them out and I am always happy to improve my efficiency in code. :D
